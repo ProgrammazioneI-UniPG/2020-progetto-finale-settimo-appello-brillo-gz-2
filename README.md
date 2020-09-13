@@ -3,11 +3,11 @@ Template progetto finale per l'esame di Programmazione I con Laboratorio a.a. 20
 
 Inserire
 
-Nome:
+Nome: Andrea
 
-Cognome:
+Cognome: Brilli
 
-Matricola:
+Matricola: 324487
 
 
-ed eventuali note sulla realizzazione del progetto, come nuove funzionalità aggiunte o modificate rispetto al testo del progetto assegnato.
+Modifiche: variazione abbattimento caverna, quando si abbatte si va anche nella caverna, modifica apportata per migliore giocabilità mantenendo inalterata la "suspense" derivante dalle 4 unità di energia
